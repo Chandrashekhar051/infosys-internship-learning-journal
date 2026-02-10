@@ -11,7 +11,7 @@ This repository documents my learning journey during the internship.   All notes
 
 ### Mind Map Preview
 
-![Mind Map](filename.png)
+![Mind Map](https://github.com/Chandrashekhar051/infosys-internship-learning-journal/blob/main/Screenshot%202026-02-10%20195314.png)
 
 ## What I Learned
 - Difference between Narrow AI, General AI, and Super AI
